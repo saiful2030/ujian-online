@@ -5,6 +5,11 @@
 
 Laravel merupakan framework PHP yang open-source dan berisi banyak modul dasar untuk mengoptimalkan kinerja PHP dalam pengembangan aplikasi web, apalagi PHP adalah bahasa pemrograman yang dinamis dan Laravel disini bisa bertindak untuk membuat web development lebih cepat, lebih aman, dan lebih simpel.
 
+## LEMP Stack
+LEMP stack adalah seperangkat aplikasi yang digunakan secara bersamaan untuk menjalankan web server. LEMP merupakan singkatan (akronim) dari Linux + Nginx + MySQL/MariaDB + PHP.
+Komfigurasi [LEMP]()
+
+
 ## Clone Project Di Server
 
 Langkah 1 : Masuk ke direktori
