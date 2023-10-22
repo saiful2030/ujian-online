@@ -7,7 +7,7 @@ Laravel merupakan framework PHP yang open-source dan berisi banyak modul dasar u
 
 ## LEMP Stack
 LEMP stack adalah seperangkat aplikasi yang digunakan secara bersamaan untuk menjalankan web server. LEMP merupakan singkatan (akronim) dari Linux + Nginx + MySQL/MariaDB + PHP.
-Komfigurasi [LEMP]()
+Komfigurasi [LEMP](https://github.com/saiful2030/LEMP)
 
 
 ## Clone Project Di Server
