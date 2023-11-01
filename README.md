@@ -118,6 +118,10 @@ try_files $uri $uri/ =404;
 try_files $uri $uri/ /index.php$is_args$args;
 ```
 
+## Akun
+Username : admin@gmail.com
+Password : password
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
